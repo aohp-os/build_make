@@ -1122,5 +1122,7 @@ android_system_image {
         "logpersist.start", // cf only
         "AOHPAgentDriver",
         "privapp-permissions-aohp",
+        "aohp-containerd",
+        "aohp-rootfs-alpine",
     ],
 }
