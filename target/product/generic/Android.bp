@@ -1124,5 +1124,6 @@ android_system_image {
         "privapp-permissions-aohp",
         "aohp-containerd",
         "aohp-rootfs-alpine",
+        "aohp_cgroup_conf",
     ],
 }
