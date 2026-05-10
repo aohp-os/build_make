@@ -1121,6 +1121,7 @@ android_system_image {
     deps: [
         "logpersist.start", // cf only
         "AOHPAgentDriver",
+        "AohpSecurityConsent",
         "MobileClawApp",
         "privapp-permissions-aohp",
         "aohp-containerd",
