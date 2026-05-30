@@ -1122,6 +1122,7 @@ android_system_image {
         "logpersist.start", // cf only
         "AOHPAgentDriver",
         "AOHPTaskDriver",
+        "AohpSecurityConsent",
         "MobileClawApp",
         "privapp-permissions-aohp",
         "aohp-containerd",
