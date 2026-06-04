@@ -1123,7 +1123,6 @@ android_system_image {
         "AOHPAgentDriver",
         "AOHPTaskDriver",
         "AohpSecurityConsent",
-        "MobileClawApp",
         "privapp-permissions-aohp",
         "aohp-containerd",
         "aohp-rootfs-alpine",
