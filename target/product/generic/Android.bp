@@ -1121,8 +1121,6 @@ android_system_image {
     deps: [
         "logpersist.start", // cf only
         "AOHPAgentDriver",
-        "AOHPTaskDriver",
-        "AohpSecurityConsent",
         "privapp-permissions-aohp",
         "aohp-containerd",
         "aohp-rootfs-alpine",
